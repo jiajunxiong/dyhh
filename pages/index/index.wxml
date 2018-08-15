@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+	<view class="search-container">
+	</view>
+	<view class="sliders-container">
+	</view>
+	<view class="search-container">
+	</view>
+	<view class="sliders-container">
+	</view>
+	<view class="search-container">
+	</view>
+	<view class="sliders-container">
+	</view>
+</view>
